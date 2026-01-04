@@ -37,3 +37,7 @@ Configure necessary environment packages based on `requirements.txt`.
 
 ## Parameter path setting
 Enter `configs/configs.py` to adjust the path of the data file.
+
+
+## DATASET
+The dataset we used was derived from an experiment platform of a direct-acting magnetorheological (MR) brake independently developed by us. By setting up a complete mechanical test and control system, dynamic response data of the input current and output force of the MR brake under different displacement and speed conditions were collected and used as the training and test sets for the model. Some of the collected current and output force data can be viewed in the "The dataset we collected " folder.

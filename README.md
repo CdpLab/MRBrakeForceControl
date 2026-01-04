@@ -30,7 +30,4 @@ The overall control pipeline consists of three key components:
 
 ## Environment Setup
 
-The project is implemented mainly in Python. Please install the required dependencies before running the code.
-
-```bash
-pip install -r requirements.txt
+Configure necessary environment packages based on requirements.txt.

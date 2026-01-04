@@ -1,5 +1,4 @@
-# High-Precision Force Feedback Control Method for MR Dampers  
-Based on an Improved GRU and Bouc–Wen Model
+# High-Precision Force Feedback Control Method for MR Dampers  Based on an Improved GRU and Bouc–Wen Model
 
 <p align="center">
 Your Name, Co-author Name<br>

@@ -23,7 +23,7 @@ The overall control pipeline consists of three key components:
    An improved Fractional Asymmetric Bouc–Wen (FABW) model is developed to accurately characterize the hysteresis, rate-dependence, and asymmetry of MR dampers under varying operating conditions.
 
 2. **Inverse Model (VMD-GRU-Attention)**  
-   A data-driven inverse model based on Variational Mode Decomposition (VMD), Gated Recurrent Unit (GRU), and Attention mechanism is designed to map the desired force to the required excitation current with low latency.
+   A data-driven inverse model based on Variational Mode Decomposition (VMD), Gated Recurrent Unit (GRU), and Attention mechanism is designed to map the desired force to the required excitation current with low latency. The overall structure of the inverse moddel is shown below.
 
 3. **Closed-loop Compensation (PPO-PID)**  
    A PPO-optimized PID controller compensates modeling errors and disturbances, ensuring robust and accurate force tracking in real-time interaction tasks.

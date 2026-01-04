@@ -1,6 +1,6 @@
 <h1 align="center">
-High-Precision Force Feedback Control Method for MR Brakes <br>
-Based on an Improved GRU and Bouc–Wen Model
+High-Precision Force Feedback Control Method for <br> 
+MR Brakes Based on an Improved GRU and Bouc–Wen Model
 </h1>
 
 <p align="center">

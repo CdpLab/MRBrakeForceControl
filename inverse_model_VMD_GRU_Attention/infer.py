@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-MR Damper 多步预测（H步）完整脚本（去除注意力机制模块）
-- 目标: 预测 [y_{t+1}..y_{t+H}]（level）或对应 Δy 向量（delta），训练在 z 空间，评估/作图还原物理单位
-- 采样: WeightedRandomSampler（基于窗口内最大目标幅值 + 事件阈值）
-- 损失: 事件加权 MSE（可关），日志打印未加权 z-MSE（与基线同口径）
-- 诊断: 打印 z 空间 pred/std/MSE，辅助判断是否塌到常数
-- 可视化: 额外输出“只看一步(h=1)”与“近似去重叠的平均轨迹”
-"""
+
 
 import os, math
 import numpy as np

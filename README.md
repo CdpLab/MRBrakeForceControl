@@ -1,10 +1,9 @@
 <h1 align="center">
-High-Precision Force Feedback Control Method for <br> 
-MR Brakes Based on an Improved GRU and Bouc–Wen Model
+High-Precision Force Feedback Control Method for MR Brakes Based on Improved GRU and Bouc–Wen Models
 </h1>
 
 <p align="center">
-Dapeng Chen, Zhenjie Ma, Haojun Ni, Hong Zeng, Jia Liu, and Aiguo Song<br>
+Dapeng Chen, Zhenjie Ma, Haojun Ni, Xuhui Hu, Hui Zhang, Hong Zeng, Jia Liu, and Aiguo Song<br>
 Nanjing University of Information Science and Technology
 </p>
 

@@ -35,5 +35,5 @@ The overall control pipeline consists of three key components:
 Configure necessary environment packages based on `requirements.txt`.
 
 
-<h4 align="center">Parameter path setting</h4>
+## Parameter path setting
 Enter `configs/configs.py` to adjust the path of the data file.

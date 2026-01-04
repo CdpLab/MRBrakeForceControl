@@ -129,7 +129,7 @@ class FractionalAsymmetricBoucWenPhysical:
             # 前向欧拉积分
             z[k] = z_prev + dz_dt * dt
 
-            # 力输出（还没归一化）
+            # 力输出
             base_force = (
                 k1_perturbed * i_signal[k]
                 + k2_perturbed * di_dt[k]

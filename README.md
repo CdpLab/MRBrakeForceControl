@@ -27,3 +27,10 @@ The overall control pipeline consists of three key components:
 
 3. **Closed-loop Compensation (PPO-PID)**  
    A PPO-optimized PID controller compensates modeling errors and disturbances, ensuring robust and accurate force tracking in real-time interaction tasks.
+
+## Environment Setup
+
+The project is implemented mainly in Python. Please install the required dependencies before running the code.
+
+```bash
+pip install -r requirements.txt

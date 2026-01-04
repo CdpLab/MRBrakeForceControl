@@ -47,5 +47,23 @@ The dataset we used was derived from an experiment platform of a direct-acting m
 
 ## Data Preparation
 Start by running `utils/data_deal.py` to retrieve and organize the required original dataset.
+```bash
+utils/data_deal.py
+```
+Then run `utils/dataprocess.py`, align the excel data by file name and merge it into a csv file. Crop the data before and after and save it as a standardized result.
+```bash
+utils/dataprocess.py
+```
+
+## Model Training
+Adjust "args. is_training==1" in `configs/configs.py`, and use `main.py` to train the model. Adjust parameters such as epoch and batch_2 according to the training environment.
+```bash
+main.py
+```
+
+## Testing
+Adjust "args. is_training==2" in `configs/configs.py`, and use `main.py` to validate results on the test set.
+
+
 
 

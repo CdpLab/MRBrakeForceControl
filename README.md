@@ -37,6 +37,9 @@ Configure necessary environment packages based on `requirements.txt`.
 
 ## Parameter path setting
 Enter `configs/configs.py` to adjust the path of the data file.
+```bash
+configs/configs.py
+```
 
 
 ## DATASET

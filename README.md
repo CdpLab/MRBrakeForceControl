@@ -3,7 +3,7 @@ High-Precision Force Feedback Control Method for MR Brakes Based on Improved GRU
 </h1>
 
 <p align="center">
-Dapeng Chen, Zhenjie Ma, Haojun Ni, Zhong Wei, Hong Zeng, Jia Liu, and Aiguo Song<br>
+Dapeng Chen, Zhenjie Ma, Haojun Ni, Zhong Wei, Hui Zhang, Xuhui Hu, Jia Liu, and Aiguo Song<br>
 Nanjing University of Information Science and Technology
 </p>
 

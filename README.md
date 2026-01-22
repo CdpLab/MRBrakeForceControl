@@ -70,6 +70,7 @@ main.py
 ## Testing
 Adjust "args. is_training==2" in `configs/configs.py`, and use `main.py` to validate results on the test set.
 
-
+## Notes:
+A detailed introduction to the force feedback glove used in Fig. 11 can be found in https://www.sciencedirect.com/science/article/pii/S0924424726000658.
 
 
